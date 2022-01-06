@@ -1,4 +1,7 @@
-### Omnifood
+### Omnifood 
+
+Hosted on Netlify: https://omnifood-ale.netlify.app/
+
 A front end practice project. HTML, CSS and JS only.
 
 Built by following a udemy course:
